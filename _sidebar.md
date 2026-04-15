@@ -1,5 +1,5 @@
 * **Mathematics**
-  * [Discrete Math](math/Discrete.md)
+  * [Discrete Math](math/discrete.md)
 * **Computer Science**
   * [Data Structure](cs/data-structure.md)
   * [Algorithms](cs/algorithms.md)
