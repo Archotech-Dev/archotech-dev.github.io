@@ -13,11 +13,11 @@ Welcome to my technical knowledge base. This space is dedicated to documenting m
     *Logic, Set Theory, and Graph Theory.*
 
 ### 🧬 Software Development
-*   **[C# Programming](./#/lang/csharp)**
+*   **[C# Programming](./#/lang/csharp)**  
     *Mastering .NET ecosystem and robust backend patterns.*
 
 ### 💻 Computer Science Core
-*   **[Data Structures](./#/cs/data-structure.md)**
+*   **[Data Structures](./#/cs/data-structure.md)**  
     *The fundamental logic behind efficient computing.*
 
 ---
