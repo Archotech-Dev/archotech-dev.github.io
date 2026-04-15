@@ -1,12 +1,12 @@
-# **Mathematics**
+* **Mathematics**
   * **Discrete**
 
-# **Computer Science**
+* **Computer Science**
   * **Data Structure**
   * **Algorithms**
   * **Design Pattern**
 
-# **Programming Language**
+* **Programming Language**
 
   * **C#**
     * **1. Basics**
