@@ -18,9 +18,9 @@
 
       * [**Chapter 1.4 - Collections 1**](lang/c-sharp/1.Basics/Chapter1.4-Collections1.md)
 
-      * [**Chapter 1.5 - Data types**](lang/c-sharp/1.Basics/Chapter1.5-Loops1.md)
+      * [**Chapter 1.5 - Loops 1**](lang/c-sharp/1.Basics/Chapter1.5-Loops1.md)
 
-      * [**Chapter 1.6 - Data types**](lang/c-sharp/1.Basics/Chapter1.6-ObjectOrientedProgramming1.md)
+      * [**Chapter 1.6 - Object Oriented Programming 1**](lang/c-sharp/1.Basics/Chapter1.6-ObjectOrientedProgramming1.md)
     
     * **2. Intermediate**
     
