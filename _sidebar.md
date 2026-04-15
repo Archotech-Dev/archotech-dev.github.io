@@ -5,5 +5,5 @@
   * [Algorithms](cs/algorithms.md)
   * [Design Pattern](cs/design-pattern.md)
 * **Programming Language**
-  * [C#](lang/C#.md)
+  * [C#](lang/c-sharp.md)
   * [WPF](lang/WPF.md)
