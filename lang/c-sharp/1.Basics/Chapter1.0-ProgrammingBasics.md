@@ -9,7 +9,7 @@ C# code executes sequentially from top to bottom.
 ## 3. Case Sensitivity  
 C# is a case-sensitive programming language, which means uppercase and lowercase code are treated differently.
 ## 4. Code Blocks and Braces
-C# code should be written within a pair of curly braces, known as a code block.  
+### C# code should be written within a pair of curly braces, known as a code block.  
 Each code block belongs to the statement preceding it.  
 Every opening brace `{` must have a matching closing brace `}`.
 ## 5. Statement Endings
