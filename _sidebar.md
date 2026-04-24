@@ -18,9 +18,9 @@
 
       * [**Chapter 1.3 - Variables**](lang/c-sharp/1.Basics/Chapter1.3-Variables.md)
 
-      * [**Chapter 1.4 - Operators**](lang/c-sharp/1.Basics/Chapter1.4-Operators.md)
+      * [**Chapter 1.4 - Control Flow 1**](lang/c-sharp/1.Basics/Chapter1.4-ControlFlow1.md)
 
-      * [**Chapter 1.5 - Control Flow 1**](lang/c-sharp/1.Basics/Chapter1.5-ControlFlow1.md)
+      * [**Chapter 1.5 - Operators**](lang/c-sharp/1.Basics/Chapter1.5-Operators.md)
 
       * [**Chapter 1.6 - Functions 1**](lang/c-sharp/1.Basics/Chapter1.6-Functions1.md)
 
