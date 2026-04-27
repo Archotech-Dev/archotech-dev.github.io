@@ -2,9 +2,11 @@
 
 ## 1. What is control flow?
 
-## 2. if statement
+## 2. if statement, conditions
 
 ## 3. if else statement
 
 ## 4. else if statement
+
+## 5. switch
 

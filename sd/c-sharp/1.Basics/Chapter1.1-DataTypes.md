@@ -1,6 +1,6 @@
 # Chapter 1.1 - Data Types
 
-## 1. What is data type?
+## 1. What is a data type?
 
 ## 2. case sensitive.
 

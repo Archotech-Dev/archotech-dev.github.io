@@ -1,6 +1,6 @@
 # Chapter 1.5 - Operators
 
-## 1. What is operator?
+## 1. What are operators?
 
 ## 2. Arithmetic Operator
 +, -, *, /, %, ++, --
