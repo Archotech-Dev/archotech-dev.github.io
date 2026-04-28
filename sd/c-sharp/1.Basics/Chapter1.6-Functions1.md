@@ -2,7 +2,8 @@
 
 ## 1. What is a function?
 
-## 2. Access Modifiers / Non-Access Modifiers
+## 2. Access Modifiers / 
+public protected private internal
 
 ## 3. Return types
 
